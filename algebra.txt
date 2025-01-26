@@ -1,0 +1,33 @@
+(1) Podaj definicję ciała liczb zespolonych. Wykaż, że jeżeli z∈C jest niezerową liczbą zespoloną to 1 z też jest liczbą zespoloną.
+(2) Podaj definicję ciała liczb zespolonych. Oblicz [. . . ]
+(3) Podaj definicję i podstawowe własności sprzężenia liczb zespolonych. Wykaż, że z1z2 = z1·z2. [nad z1z2 są sprzęenia]
+(4) Podaj definicję i podstawowe własności sprzężenia liczb zespolonych. Wykaż, że (z1/z2)=z1/z2.
+(5) Podaj definicję i podstawowe własności modułu liczb zespolonych. Wykaż, że |z1z2|= |z1|·|z2|.
+(6) Podaj definicję i podstawowe własności modułu liczb zespolonych. Wykaż, że |z1/z2| = |z1|/|z2|.
+(7) Podaj definicję i podstawowe własności modułu liczb zespolonych. Wykaż, że |z1 + z2| <= |z1|+ |z2|.
+(8) Sformułuj i udowodnij twierdzenie o mnożeniu liczb zespolonych w postaci trygonometrycznej.
+(9) Sformułuj i udowodnij twierdzenie de Moivre’a (dowód tylko dla n 0). Oblicz [. . . ] (przykład na wzór de Moivre’a)
+(10) Sformułuj twierdzenie o pierwiastkach z liczb zespolonych. Oblicz pierwiastek [. . . ].
+(11) Oblicz cosinus kąta między dwoma niezerowymi wektorami (x1, y1), (x2, y2) ∈R2
+(12) Podaj definicję kąta między wektorami w Rn. Oblicz kąt między wektorami [. . . ].
+(13) Opisz znane ci sposoby opisywania prostej w przestrzeni Rn. Wyznacz równanie prostej [. . . ]
+(14) Opisz znane ci sposoby opisywania płaszczyzny w przestrzeni Rn. Wyznacz równanie płaszczyzny [. . . ]
+(15) Podaj definicję postaci schodkowej macierzy. Opisz algorytm sprowadzania macierzy do postaci schodkowej. Sprowadź macierz [. . . ] do postaci schodkowej.
+(16) Podaj definicję iloczynu macierzy i wykaż, że mnożenie macierzy jest łączne.
+(17) Podaj definicję macierzy odwrotnej. Wyznacz macierz odwrotną do macierzy [. . . ]
+(18) Podać dwie równoważne definicje podprzestrzeni liniowej i udowodnić ich równoważność.
+(19) Podaj definicję przestrzeni liniowej. Wykaż, że zbiór [. . . ] jest podprzestrzenią
+przestrzeni Rn.
+(20) Podaj definicję popdrzestrzeni rozpiętej (generowanej) przez wektory ze zbioru A. Wyznacz tę podprzestrzeń jeżeli A =[. . . ].
+(21) Podaj definicję liniowej niezależności wektorów i wykaż, że jeżeli wektory są liniowo zależne, to jeden z nich jest kombinacją liniową pozosotałych.
+(22) Podaj definicję liniowej niezależności wektorów. Sprawdź czy wektory [. . . ] są liniowo niezależne.
+(23) Podać definicję bazy przestrzeni liniowej i wykazać, że jeżeli B jest bazą V to wektory z B generują V.
+(24) Wykazać, że jeżeli układ wektorów jest liniowo niezależny i generuje przestrzeń V to jest minimalnym zbiorem generatorów.
+(25) Wykaż, że jeżeli układ wektorów B jest minimalnym zbiorem generatorów V , to każdy wektor z V można jednoznacznie zapisać jako kombinację liniową wektorów z B.
+(26) Wykaż, że jeżeli każdy wektor z przestrzeni V można jednoznacznie zapisać jako kombinację liniową wektorów z B, to B jest bazą V.
+(27) Podaj definicję bazy przestrzeni liniowej. Wykaż, że układ wektorów [. . . ] jest bazą R3/
+(28) Sformułuj i udowodnij twierdzenie Steinitza o wymianie (bez dowodu lematu).
+(29) Podaj definicję wymiaru przestrzeni liniowej. Wyznacz wymiar podprzestrzeni [. . . ]
+(30) Sformułuj twierdzenie o wymiarze sumy podprzestrzeni liniowych. Wyjaśnij w jaki sposób z baz V1, V2, V1 ∩V2 konstruuje się bazę V1 + V2 (pierwsza część dowodu twierdzenia).
+(31) Podaj definicję rzędu układu wektorów. Oblicz rząd macierzy [. . . ].
+(32) Podaj definicję wyznacznika. Oblicz wyznacznik [. . . ].

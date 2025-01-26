@@ -1,0 +1,106 @@
+Co to jest zdanie logiczne? Podaj przykład zdania logicznego oraz zdania, które nie jest zdaniem logicznym (wyjaśnij dlaczego nie jest).
+Omów poznane spójniki logiczne.
+Co to jest tautologia? Sformułuj „prawo …” i udowodnij je.
+Podaj przykład zdania prawdziwego / fałszywego zapisanego z użyciem kwantyfikatora ogólnego / szczegółowego.
+Czy wyrażenie …. jest zdaniem logicznym? Jeśli tak, to jaką ma wartość? Jeśli nie, to dlaczego?
+Wymień poznane na wykładzie zbiory liczbowe i przedstaw relacje zawierania między nimi.
+Zdefiniuj zbiór liczb naturalnych. Podaj jego najmniejszy element, uwzględniając dwie możliwości.
+Zdefiniuj zbiór liczb całkowitych.
+Zdefiniuj zbiór liczb wymiernych. Wyjaśnij, kiedy 2 liczby wymierne są sobie równe.
+Wypisz aksjomaty dodawania. Określ, które z nich nie zachodzą przy dodawaniu liczb naturalnych i wyjaśnij, dlaczego.
+Wypisz aksjomaty mnożenia. Określ, który z nich nie zachodzi przy mnożeniu liczb całkowitych i wyjaśnij, dlaczego.
+Wypisz aksjomaty porządku. Wyjaśnij, na czym polega spójność relacji porządku. 
+Podaj i wyjaśnij własność zbioru liczb rzeczywistych, której nie posiada zbiór liczb wymiernych. 
+Wyjaśnij, kiedy o zbiorze można powiedzieć, że jest ograniczony z góry (z dołu). Podaj przykład takiego zbioru wraz z trzema przykładami jego ograniczeń górnych (dolnych). 
+Podaj definicję kresu górnego (dolnego) i wyjaśnij różnicę między nim a ograniczeniem górnym (dolnym). Zagadnienie wyjaśnij na dobranym autorskim przykładzie.
+Sformułuj Zasadę indukcji matematycznej w wersji podstawowej. 
+Sformułuj Zasadę indukcji matematycznej w wersji ogólnej. 
+Wykorzystując ZIM udowodnij następujący fakt: …
+Podaj i udowodnij nierówność Bernoulliego. 
+Co to jest ciąg liczbowy? Kiedy ciąg liczbowy jest rosnący (inne)? Kiedy ciąg liczbowy jest ograniczony z góry (inne)? Podaj przykład ciągu liczbowego, który jest rosnący i ograniczony z góry (inne). 
+Podaj definicję granicy ciągu liczbowego.
+Sformułuj i udowodnij twierdzenie mówiące o tym, ile granic może mieć ciąg liczbowy.
+Udowodnij że jeśli ciąg jest zbieżny, to jest ograniczony.
+Podaj twierdzenie o rachunku granic dla ciągów liczbowych.
+Sformułuj i udowodnij twierdzenie o monotoniczności granicy
+Sformułuj i udowodnij twierdzenie o 3 ciągach.
+Pokaż, że jeśli ciąg liczbowy jest rosnący (malejący) i ograniczony, to jest zbieżny.
+Podaj twierdzenie o ciągu średnich arytmetycznych.
+Podaj twierdzenie o ciągu średnich geometrycznych.
+Podaj definicję granic niewłaściwych dla ciągu liczbowego. 
+Sformułuj twierdzenie o dwóch ciągach i podaj przykład jego zastosowania. 
+Podaj co najmniej dwa twierdzenia dotyczące rozszerzenia rachunku granic na granice niewłaściwe oraz wymień wszystkie symbole nieoznaczone. 
+Udowodnij, że dla 0<c<1, lim cn = 0.
+Udowodnij, że dla c>1, lim cn = ∞.
+Podaj definicję podciągu ciągu liczbowego. Pojęcie zobrazuj przykładami.
+Sformułuj twierdzenie o zbieżności podciągów ciągu zbieżnego.
+Sformułuj twierdzenie Bolzano-Weierstrassa.
+Sformułuj definicję granicy górnej (dolnej) ciągu. Podaj przykład ciągu, którego granica górna wynosi …, zaś granica dolna wynosi …. 
+Podaj definicje sumy, iloczynu i różnicy zbiorów. Pojęcia zobrazuj przykładami.
+Podaj definicję dopełnienia zbioru. Pojęcie zobrazuj przykładami.
+Podaj definicję iloczynu kartezjańskiego. Pojęcie zobrazuj przykładami.
+Podaj definicje działań uogólnionych na rodzinach zbiorów. Pojęcia zobrazuj przykładami.
+Podaj prawa de Morgana dla działań uogólnionych.
+Podaj definicję punktu skupienia, zbioru otwartego oraz zbioru domkniętego. Pojęcia zobrazuj przykładami.
+Podaj twierdzenia poznane w ramach tematu „Elementy topologii w R”
+Podaj definicję szeregu liczbowego. Kiedy szereg liczbowy posiada sumę? Opisz relacje pomiędzy zbieżnością szeregu a wartością sumy szeregu. Kiedy szereg liczbowy nazywamy ograniczonym? Podaj zależność między byciem ograniczonym, a byciem zbieżnym – w tym celu sformułuj odpowiednie twierdzenie.
+Podaj definicję n-tej reszty szeregu. Co można powiedzieć o ciągu reszt dla szeregu zbieżnego? Sformułuj odpowiednie twierdzenie.
+Sformułuj warunek konieczny zbieżności szeregu. Podaj sformułowanie równoważne tego warunku wynikające z prawa transpozycji. Wyjaśnij, dlaczego jest to tylko warunek konieczny, a nie wystarczający. Podaj przykład szeregu, który spełnia ten warunek, ale jest rozbieżny. Podaj przykład szeregu, dla którego warunek konieczny pozwala na odpowiedzenie na pytanie o jego zbieżność.
+Co to jest szereg geometryczny? Podaj charakteryzację zbieżności szeregów geometrycznych (łącznie ze wzorem na sumę). Podaj przykład szeregu geometrycznego o sumie 222 (inne). 
+Podaj warunek Cauchy’ego zbieżności szeregu. Jak brzmi twierdzenie dotyczące warunku Cauchy’ego zbieżności szeregu? 
+Podaj wzór szeregu harmonicznego. Czy szereg harmoniczny jest zbieżny? Uzasadnij. 
+Podaj twierdzenie dotyczące działań na szeregach zbieżnych.
+Sformułuj twierdzenie o porównywaniu szeregów. Podaj przykład jego zastosowania.
+Podaj kryterium porównawcze ilorazowe oraz przykład szeregu, którego zbieżność można wykazać przy użyciu tego kryterium.
+Podaj kryterium d’Alemberta oraz przykład szeregu, którego zbieżność (rozbieżność) można wykazać przy użyciu tego kryterium. Podaj przykład szeregu, który nie reaguje na kryterium d’Alemberta.
+Podaj kryterium Cauchy’ego oraz przykład szeregu, którego zbieżność (rozbieżność) można wykazać przy użyciu tego kryterium. Podaj przykład szeregu, który nie reaguje na kryterium Cauchy’ego.
+Podaj kryterium kondensacyjne oraz przykład szeregu, którego zbieżność (rozbieżność) można wykazać przy użyciu tego kryterium.
+Podaj definicję szeregu harmonicznego rzędu r i omów zbieżność takiego szeregu w zależności od parametru r.
+Sformułuj twierdzenie Dirichleta oraz podaj wzór zwany przekształceniem Abela.
+Sformułuj kryterium Leibniza oraz podaj przykład szeregu, którego zbieżność można wykazać przy użyciu tego kryterium.
+Podaj definicję bezwzględnej oraz warunkowej zbieżności szeregu. Pojęcia zobrazuj przykładami.
+Podaj twierdzenia dotyczące permutacji wyrazów szeregów zbieżnych.
+Podaj definicję szeregu anharmonicznego rzędu r i omów zbieżność takiego szeregu w zależności od parametru r.
+Co to jest iloczyn Cauchy’ego dwóch szeregów? Podaj definicję oraz twierdzenie Cauchy’ego dotyczące tego iloczynu. 
+Podaj twierdzenie Mertensa związane z mnożeniem szeregów wraz z przykładami dwóch szeregów spełniających jego założenie. 
+Podaj twierdzenie Abela związane z mnożeniem.
+Wykorzystując iloczyn Cauchy’ego, wyznaczyć wzór na ∑𝑛𝑞𝑛, gdzie |𝑞|<1. W rozwiązaniu powołać się na odpowiednie twierdzenie dotyczące zbieżności szeregów. 
+Co to jest szereg anharmoniczny? Czy jest on zbieżny, czy rozbieżny? Które kryterium z poznanych na wykładzie pozwala to rozstrzygnąć? Ile wynosi suma szeregu anharmonicznego? Jak permutacja wyrazów może wpłynąć na zachowanie się szeregu anharmonicznego?
+Sformułuj twierdzenie o trzech szeregach.
+Podaj wersję Heinego (Cauchy’ego) definicji granicy właściwej funkcji f w punkcie właściwym.
+Podaj wersję Heinego (Cauchy’ego) definicji granicy właściwej funkcji f w + nieskończoności (− nieskończoności).
+Podaj wersję Heinego (Cauchy’ego) definicji granicy + nieskończoność (− nieskończoność) funkcji f w punkcie właściwym.
+Podaj wersję Heinego (Cauchy’ego) definicji granicy + nieskończoność (− nieskończoność) funkcji f w + nieskończoności (− nieskończoności).
+Podaj definicję wskazanej granicy jednostronnej funkcji f.
+Podaj wersję Heinego (Cauchy’ego) ciągłości funkcji w danym punkcie. Kiedy funkcję nazywamy ciągłą? Pojęcia zobrazuj przykładami.
+Opisz, jakie działania można wykonywać na funkcjach ciągłych, tak aby po przekształceniu nadal były ciągłe? W tym celu podaj odpowiednie twierdzenia poznane na wykładzie.
+Uzasadnij ciągłość funkcji wielomianowych i wymiernych.
+Uzasadnij ciągłość funkcji trygonometrycznych i cyklometrycznych.
+Uzasadnij ciągłość funkcji wykładniczych i logarytmicznych.
+Uzasadnij ciągłość funkcji potęgowych.
+Podaj definicję własności Darboux.
+Podaj 4 najważniejsze własności funkcji ciągłych określonych w przedziale domkniętym. W tym celu sformułuj odpowiednie twierdzenia poznane na wykładzie.
+Podaj definicję jednostajnej ciągłości. Jak jednostajna ciągłość ma się do ciągłości?
+Kiedy funkcja spełnia warunek Lipschitza? Podaj przykład funkcji która go (nie) spełnia na zaproponowanym przedziale. Jak spełnianie tego warunku ma się do jednostajnej ciągłości, a jak do ciągłości?
+Podaj definicję pochodnej funkcji w zadanym punkcie. Podaj przykład funkcji, która nie jest różniczkowalna w punkcie x0=22, choć jest w tym punkcie ciągła.
+Wyjaśnij geometryczną interpretację pochodnej funkcji w danym punkcie oraz podaj wzór na styczną.
+Kiedy funkcję nazywamy różniczkowalną?
+Sformułuj i udowodnij warunek konieczny różniczkowalności. Korzystając z prawa transpozycji, zapisz go w postaci alternatywnej.
+Podaj i udowodnij wzór na pochodną sumy (różnicy).
+Podaj i udowodnij wzór na pochodną iloczynu (ilorazu). Podaj szczegółowe uzasadnienie.
+Podaj twierdzenie o różniczkowaniu funkcji złożonej.
+Podaj twierdzenie o różniczkowaniu funkcji odwrotnej.
+Korzystając z poznanych twierdzeń wyprowadź wzór na pochodną funkcji arc sin x (inna funkcja elementarna).
+Sformułuj i udowodnij twierdzenie Rolle’a
+Sformułuj i udowodnij twierdzenie Lagrange’a
+Co wiadomo o funkcji ciągłej, która w każdym punkcie wewnętrznym dziedziny ma pochodną równą 0? Sformułuj i udowodnij odpowiednie twierdzenie.
+Podaj definicję pochodnej wyższego rzędu. Pojęcie zobrazuj przykładami.
+Sformułuj twierdzenie Taylora i omów składniki wzoru Taylora.
+Podaj definicję funkcji rosnącej (malejącej). Podaj twierdzenia poznane na wykładzie dotyczące związku między znakiem pochodnej a monotonicznością funkcji.
+Podaj definicję maksimum (minimum) lokalnego funkcji. Co to znaczy, że dane ekstremum jest właściwe? 
+Sformułuj twierdzenie Fermata będące warunkiem koniecznym istnienia ekstremum lokalnego dla funkcji różniczkowalnej.
+Podaj definicję funkcji wypukłej (wklęsłej). Podaj twierdzenia poznane na wykładzie dotyczące związku między znakiem drugiej pochodnej a wypukłością funkcji.
+Podaj wskazaną regułę de l’Hospitala. W tym celu sformułuj odpowiednie twierdzenie.
+Podaj definicję asymptoty w + nieskończoności. Pojęcie zobrazuj przykładami.
+Podaj definicję asymptoty w − nieskończoności. Pojęcie zobrazuj przykładami.
+Podaj definicję asymptoty pionowej dla wykresu funkcji. Pojęcie zobrazuj przykładami.
